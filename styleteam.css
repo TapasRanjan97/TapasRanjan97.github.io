@@ -554,7 +554,7 @@ img{
 	margin-bottom: 32px;
 }
 .about-btn-area{
-	float: left;
+	float: center;
 	display: inline;
 	margin-top: 14px;
 	width: 100%;
@@ -724,18 +724,18 @@ img{
 }
 
 .team-img-1 { 
-	background-image: url(assets/images/team-member1.png);
+	background-image: url(assets/images/member1.png);
 }
 
 .team-img-2 { 
-	background-image: url(assets/images/team-member2.png);
+	background-image: url(assets/images/member2.png);
 }
 
 .team-img-3 { 
-	background-image: url(assets/images/team-member3.png);
+	background-image: url(assets/images/member3.png);
 }
 .team-img-4 { 
-	background-image: url(assets/images/team-member4.png);
+	background-image: url(assets/images/member4.png);
 }
 
 .team-info {
@@ -2082,7 +2082,8 @@ img{
 }
 .comment-form.button-default::after,
 .comment-form .button-default > span {
-  	padding: 12px 40px;  
+  	padding: 12px 12px;  
+	
 }
 
 /*--------------------*/
