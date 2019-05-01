@@ -737,6 +737,28 @@ img{
 .team-img-4 { 
 	background-image: url(assets/images/member4.png);
 }
+.team-img-5 { 
+	background-image: url(assets/images/member5.png);
+}
+
+.team-img-6 { 
+	background-image: url(assets/images/member6.png);
+}
+
+.team-img-7 { 
+	background-image: url(assets/images/member7.png);
+}
+.team-img-8 { 
+	background-image: url(assets/images/member8.png);
+}
+.team-img-9 { 
+	background-image: url(assets/images/member9.png);
+}
+
+.team-img-10 { 
+	background-image: url(assets/images/member10.png);
+}
+
 
 .team-info {
 	position: absolute;
