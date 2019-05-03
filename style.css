@@ -201,15 +201,21 @@ img{
 .header-content {
 	float: left;
 	height: 100%;
-	padding: 12% 140px 140px;
+	padding: 10% 140px 140px;
 	text-align: center;
 	width: 100%;
 }
 .header-content h2 {
-	font-size: 120px;
+	font-size:130px;
 	font-weight: bold;
 	text-transform: uppercase;
 	line-height: 80px;
+}
+.header-content h3 {
+	font-size:65px;
+	color : #fff;
+	text-transform: uppercase;
+	
 }
 .header-content h2 span {
 	font-weight: normal;
