@@ -68,6 +68,14 @@ h2 {
 	margin: 0;
 	padding-bottom: 10px;  
 }
+h3 {
+	color: #fff;  
+	font-size: 10px;
+	font-weight: 700;
+	line-height: 40px;
+	margin: 0;
+	padding-bottom: 10px;  
+}
 img{
  border:none;
 }
@@ -208,7 +216,6 @@ img{
 .header-content h2 {
 	font-size:130px;
 	font-weight: bold;
-	
 	line-height: 80px;
 }
 .header-content h3 {
