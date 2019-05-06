@@ -201,21 +201,15 @@ img{
 .header-content {
 	float: left;
 	height: 100%;
-	padding: 10% 140px 140px;
+	padding: 12% 140px 140px;
 	text-align: center;
 	width: 100%;
 }
 .header-content h2 {
-	font-size:130px;
+	font-size: 100px;
 	font-weight: bold;
-	
+	text-transform: uppercase;
 	line-height: 80px;
-}
-.header-content h3 {
-	font-size:65px;
-	color : #fff;
-	
-	
 }
 .header-content h2 span {
 	font-weight: normal;
@@ -560,7 +554,7 @@ img{
 	margin-bottom: 32px;
 }
 .about-btn-area{
-	float: left;
+	float: center;
 	display: inline;
 	margin-top: 14px;
 	width: 100%;
@@ -730,19 +724,41 @@ img{
 }
 
 .team-img-1 { 
-	background-image: url(assets/images/team-member1.png);
+	background-image: url(assets/images/member1.png);
 }
 
 .team-img-2 { 
-	background-image: url(assets/images/team-member2.png);
+	background-image: url(assets/images/member2.png);
 }
 
 .team-img-3 { 
-	background-image: url(assets/images/team-member3.png);
+	background-image: url(assets/images/member3.png);
 }
 .team-img-4 { 
-	background-image: url(assets/images/team-member4.png);
+	background-image: url(assets/images/member4.png);
 }
+.team-img-5 { 
+	background-image: url(assets/images/member5.png);
+}
+
+.team-img-6 { 
+	background-image: url(assets/images/member6.png);
+}
+
+.team-img-7 { 
+	background-image: url(assets/images/member7.png);
+}
+.team-img-8 { 
+	background-image: url(assets/images/member8.png);
+}
+.team-img-9 { 
+	background-image: url(assets/images/member9.png);
+}
+
+.team-img-10 { 
+	background-image: url(assets/images/member10.png);
+}
+
 
 .team-info {
 	position: absolute;
@@ -978,7 +994,7 @@ img{
 .single-item>img{
 	width: 100%;
     display: block;
-    height: 150px;
+    height: 290px;
     -webkit-transition: all 0.5s ease 0s;
 	-o-transition: all 0.5s ease 0s;
 	transition: all 0.5s ease 0s;
@@ -1560,7 +1576,7 @@ img{
 	background: transparent;
 	border: 1px solid #fff;
 	border-radius: 0;
-	height: 280px;
+	height: 190px;
 }
 .contact-form .form-control:focus {
     outline: 0;
@@ -2088,7 +2104,8 @@ img{
 }
 .comment-form.button-default::after,
 .comment-form .button-default > span {
-  	padding: 12px 40px;  
+  	padding: 12px 12px;  
+	
 }
 
 /*--------------------*/
