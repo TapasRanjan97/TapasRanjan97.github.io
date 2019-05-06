@@ -58,7 +58,7 @@ a:focus{
 	text-decoration: none;
 }
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Candara', sans-serif;
 }
 h2 {
 	color: #fff;  
@@ -206,9 +206,9 @@ img{
 	width: 100%;
 }
 .header-content h2 {
-	font-size: 80px;
+	font-size: 130px;
 	font-weight: bold;
-	text-transform: uppercase;
+	
 	line-height: 80px;
 }
 .header-content h2 span {
